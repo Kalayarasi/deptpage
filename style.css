@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    position: absolute;
+    align-items: center;
+}
+.nav{
+    margin: 0;
+    height: 55px;
+    background-color: #16336D;
+}
+p{ 
+    position: relative;
+    padding: 15px;
+    font-size: 18px;
+    color: whitesmoke; 
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+}
+.header-it{
+    position: relative;
+    margin-top:3px;
+    width: 94%;
+    margin-left:3%; 
+}
+.dept-nav{
+    margin-left: 25px ;
+    margin-right:23px ;
+    background-color: #660066;
+}
+h3{
+    letter-spacing: 0.5px;
+    margin-top: 35px;
+    margin-left: 3%;
+    color: #000090;
+}
+h4{
+    font-size: 18px ;
+    margin-top: 20px;
+    margin-left: 3%;
+}
+span{
+   align-items: center;
+    margin-left:50%;
+}
+p span{
+    margin-left: 65%;
+}
+
+.program{
+    margin-top: 15px;
+    letter-spacing: 0.5px;
+    margin-left: 3%;
+    color: #000090;
+}
+.hod-name{
+    margin-left: 3%;
+    color: black;
+}
+ hr{
+    opacity: 50%;
+     margin-top:20px;
+     margin-left: 3%;
+     margin-right: 3%;
+ }
+ .program-content hr{
+    opacity: 50%;
+    margin-top:20px;
+ }
+.program-content p{
+    font-size: 16px;
+    font-weight: 400;
+    padding: 5px;
+    margin-left: 3%;
+    color: black;
+}
+ .vision p{
+    width: 94%;
+    margin-left: 3%;
+    margin-top:10px ;
+    border-radius: 10px;
+    padding-bottom: 15px;
+    background-color: #D1ECF1;
+    color: black;
+}
+.mission{
+    width: 94%;
+    margin-left: 3%;
+    border-radius: 10px;
+    background-color: #D4EDDA;
+}
+.mission li{
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-left: 5%;  
+}
+.objective{
+    width: 94%;
+    margin-left: 3%;
+    margin-top: 10px;
+    background-color: #F8D7DA;
+    border-radius: 10px;
+}
+.objective p{
+    margin-left: 4%;
+    color: black;
+    font-size: 17px;
+}
+.outcome p{
+    width:78%;
+    color: black;
+    margin-left: 30px;
+}
+.PSOs h5{
+    font-size: 15px;
+    text-align: center;
+}
+.PSOs p{
+    margin-left: 3%;
+    color: black; 
+}
+.footer{
+    color: brown;
+    text-align: center;
+}
