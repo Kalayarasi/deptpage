@@ -10,7 +10,7 @@ body{
 .nav{
     width:100%;
     margin: 0;
-    height: 20%;
+    height: 10%;
     background-color: #16336D;
 }
 p{ 
@@ -27,6 +27,7 @@ a{
     position: relative;
     margin-top:3px;
     width: 94%;
+    height:100%;
     margin-left:3%; 
 }
 .dept-nav{
