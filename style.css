@@ -10,7 +10,7 @@ body{
 .nav{
     width:100%;
     margin: 0;
-    height: 10%;
+    height: 7%;
     background-color: #16336D;
 }
 p{ 
@@ -83,7 +83,7 @@ p span{
     color: black;
 }
  .vision p{
-    width: 94%;
+    width: 90%;
     margin-left: 3%;
     margin-top:10px ;
     border-radius: 10px;
