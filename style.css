@@ -29,8 +29,9 @@ a{
     margin-left:3%; 
 }
 .dept-nav{
-    margin-left: 25px ;
-    margin-right:23px ;
+    padding: 5px;
+    margin-left: 2% ; 
+    margin-right:2% ;
     background-color: #660066;
 }
 h3{
